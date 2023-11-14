@@ -114,8 +114,6 @@
 - USDT（TRC20）: TDzBj9eV1Cdmmj9xd5Y1YLsQqC8zVgi7yd
 
 ## 感谢
-- [VirtualApp](https://github.com/asLody/VirtualApp)
-- [VirtualAPK](https://github.com/didi/VirtualAPK)
 - [BlackReflection](https://github.com/CodingGay/BlackReflection)
 - [FreeReflection](https://github.com/tiann/FreeReflection)
 - [Pine](https://github.com/canyie/pine)
